@@ -32,6 +32,11 @@ El objetivo fue construir un dashboard en Power BI para analizar la eficiencia d
 - Visualizaciones
 - Creación de tooltip personalizado a cada visual
 
+## 🚀 Tecnologías utilizadas
+- PowerBI
+- PowerQuery
+- DAX
+- Adobe InDesign
 
 ## 📱 Contacto
 📧 gaston.pelo.contacto@gmail.com   
